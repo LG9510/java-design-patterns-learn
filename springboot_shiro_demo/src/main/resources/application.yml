@@ -1,0 +1,44 @@
+server:
+  port: 8090
+spring:
+  #配置thymeleaf
+  thymeleaf:
+    #不使用页面缓存
+    cache: false
+    #配置html访问的前后缀
+    prefix: classpath:/templates/
+    suffix: .html
+    #可以使用h5标签
+    mode: HTML5
+    #配置字符编码
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+  datasource:
+    #配置阿里巴巴数据源的四大件
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/k9511_test?useUnicode=true&characterEncoding=utf-8
+      username: root
+      password: 123456
+      #配置连接池的详细信息
+      initialSize: 1
+      minIdle: 5
+      maxActive: 20
+      maxWait: 60000
+      timeBetweenEvictionRunsMillis: 60000
+      minEvictableIdleTimeMillis: 300000
+      validationQuery: SELECT 1 FROM DUAL
+
+#配置mybatis
+mybatis:
+  type-aliases-package: cn.com.djin.model
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    #开启MyBatis的二级缓存
+    cache-enabled: true
+    #开启懒加载
+    lazy-loading-enabled: true
+    #false 为按需加载
+    aggressive-lazy-loading: false
+  #mapper-locations: classpath:mapper/*.xml

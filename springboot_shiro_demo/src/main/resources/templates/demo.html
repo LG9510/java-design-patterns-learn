@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>测试页面</title>
+</head>
+<body>
+<div align="center">
+    <h1>案例的主页面</h1>
+
+    <!--/*@thymesVar id="msg" type="cn.com.lg.*"/-->
+    <p style="color: red;" th:text="${msg}"></p>
+    <p>功能操作：<a href="/user/toAdd">去添加</a></p>
+    <p>功能操作：<a href="/user/toUpdate">去修改</a></p>
+</div>
+</body>
+</html>
