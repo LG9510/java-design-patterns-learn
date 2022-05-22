@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cbb903c-fa79-49bd-8423-97d3c5f0f3a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/AbstractDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/domain/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/domain/HasModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/domain/HasParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/domain/HasPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/domain/HasType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/domain/Part.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/domain/enums/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/test/java/com/ligen/anstractDoument/AbstractDocumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/test/java/com/ligen/anstractDoument/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract-document/src/test/java/com/ligen/anstractDoument/DomainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitor/src/main/java/com/ligen/monitor/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/etc/abstract-document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/etc/abstract-document.ucls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/etc/abstract-document.urm.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/main/java/com/java/abstractDocument/AbstractDocument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/main/java/com/java/abstractDocument/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/main/java/com/java/abstractDocument/Document.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/main/java/com/java/abstractDocument/domain/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/main/java/com/java/abstractDocument/domain/HasModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/main/java/com/java/abstractDocument/domain/HasParts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/main/java/com/java/abstractDocument/domain/HasPrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/main/java/com/java/abstractDocument/domain/HasType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/main/java/com/java/abstractDocument/domain/Part.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/main/java/com/java/abstractDocument/domain/enums/Property.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/test/java/com/java/abstractDocument/AbstractDocumentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/test/java/com/java/abstractDocument/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-document/src/test/java/com/java/abstractDocument/DomainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/etc/abstract-factory.urm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/etc/abstract-factory.urm.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/Army.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/Castle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/ElfArmy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/ElfCastle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/ElfKing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/ElfKingdomFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/King.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/Kingdom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/KingdomFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/OrcArmy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/OrcCastle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/OrcKing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/main/java/com/java/AbstractFactory/OrcKingdomFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/test/java/com/java/AbstractFactory/AbstractFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/abstract-factory/src/test/java/com/java/AbstractFactory/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/active-object/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/active-object/etc/active-object.urm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/active-object/etc/active-object.urm.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/active-object/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/active-object/src/main/java/com/java/activeObject/ActiveCreature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/active-object/src/main/java/com/java/activeObject/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/active-object/src/main/java/com/java/activeObject/Orc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/active-object/src/test/java/com/java/activeObject/ActiveCreatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/active-object/src/test/java/com/java/activeObject/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/etc/acyclic-visitor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/etc/acyclic-visitor.urm.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/main/java/com/java/acyclicVisitor/AllModemVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/main/java/com/java/acyclicVisitor/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/main/java/com/java/acyclicVisitor/ConfigureForDosVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/main/java/com/java/acyclicVisitor/ConfigureForUnixVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/main/java/com/java/acyclicVisitor/Hayes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/main/java/com/java/acyclicVisitor/HayesVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/main/java/com/java/acyclicVisitor/Modem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/main/java/com/java/acyclicVisitor/ModemVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/main/java/com/java/acyclicVisitor/Zoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/main/java/com/java/acyclicVisitor/ZoomVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/test/java/com/java/acyclicVisitor/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/test/java/com/java/acyclicVisitor/ConfigureForDosVisitorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/test/java/com/java/acyclicVisitor/ConfigureForUnixVisitorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/test/java/com/java/acyclicVisitor/HayesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/acyclic-visitor/src/test/java/com/java/acyclicVisitor/ZoomTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/lombok.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/etc/singleton.urm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/etc/singleton.urm.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/main/java/com/java/singleton/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/main/java/com/java/singleton/EnumIvoryTower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/main/java/com/java/singleton/InitializingOnDemandHolderIdiom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/main/java/com/java/singleton/IvoryTower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/main/java/com/java/singleton/ThreadSafeDoubleCheckLocking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/main/java/com/java/singleton/ThreadSafeLazyLoadedIvoryTower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/test/java/com/java/singleton/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/test/java/com/java/singleton/EnumIvoryTowerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/test/java/com/java/singleton/InitializingOnDemandHolderIdiomTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/test/java/com/java/singleton/IvoryTowerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/test/java/com/java/singleton/SingletonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/test/java/com/java/singleton/ThreadSafeDoubleCheckLockingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-design-patterns-learn-lg/singleton/src/test/java/com/java/singleton/ThreadSafeLazyLoadedIvoryTowerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_learn/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_learn/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/mapper/CountryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/mapper/PrivilegeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/mapper/RoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/model/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/model/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/model/CreateInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/model/SysPrivilege.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/model/SysRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/model/SysRoleExtend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/model/SysRolePrivilege.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/model/SysUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/java/tk/mybatis/simple/model/SysUserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/resources/tk/mybatis/simple/mapper/CountryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/resources/tk/mybatis/simple/mapper/PrivilegeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/resources/tk/mybatis/simple/mapper/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/resources/tk/mybatis/simple/mapper/RolePrivilegeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/main/resources/tk/mybatis/simple/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybatis_learn/src/test/java/tk/mybatis/simple/mapper/CountryMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../noIfElse/noIfElse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-learn/nacos/src/main/java/com/java/ligen/NacosApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-cloud-learn/nacos/src/main/java/com/java/ligen/NacosApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/src/main/java/com/example/springcoldknowledge/SpringColdKnowledgeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/src/main/java/com/example/springcoldknowledge/controller/DesignTacoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/src/main/java/com/example/springcoldknowledge/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/src/main/java/com/example/springcoldknowledge/entity/Ingredient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/src/main/resources/spring.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/src/test/java/com/example/springcoldknowledge/BaseText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/src/test/java/com/example/springcoldknowledge/SpringColdKnowledgeApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cold-knowledge/src/test/java/com/example/springcoldknowledge/controller/HomeControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/life/majiang/community/community/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/static/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/templates/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29TYgKPDcUFknuS6xhSwKpVAaVm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "aspect.path.notification.shown": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
+    "last_opened_file_path": "C:/Users/10122/Desktop/learn/java-design-patterns-learn",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\10122\Desktop\learn\java-design-patterns-learn" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ligen.anstractDoument" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AbstractDocumentTest.shouldRetrieveEmptyStreamForNonExistingChildren">
+    <configuration name="AbstractDocumentTest.shouldPutAndGetValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="abstract-document" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ligen.anstractDoument.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ligen.anstractDoument" />
+      <option name="MAIN_CLASS_NAME" value="com.ligen.anstractDoument.AbstractDocumentTest" />
+      <option name="METHOD_NAME" value="shouldPutAndGetValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractDocumentTest.shouldRetrieveChildren" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="abstract-document" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ligen.anstractDoument.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ligen.anstractDoument" />
+      <option name="MAIN_CLASS_NAME" value="com.ligen.anstractDoument.AbstractDocumentTest" />
+      <option name="METHOD_NAME" value="shouldRetrieveChildren" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractDocumentTest.shouldRetrieveEmptyStreamForNonExistingChildren" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="abstract-document" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ligen.anstractDoument.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ligen.anstractDoument" />
+      <option name="MAIN_CLASS_NAME" value="com.ligen.anstractDoument.AbstractDocumentTest" />
+      <option name="METHOD_NAME" value="shouldRetrieveEmptyStreamForNonExistingChildren" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DomainTest.shouldConstructCar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="abstract-document" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ligen.anstractDoument.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ligen.anstractDoument" />
+      <option name="MAIN_CLASS_NAME" value="com.ligen.anstractDoument.DomainTest" />
+      <option name="METHOD_NAME" value="shouldConstructCar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DomainTest.shouldConstructPart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="abstract-document" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ligen.anstractDoument.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ligen.anstractDoument" />
+      <option name="MAIN_CLASS_NAME" value="com.ligen.anstractDoument.DomainTest" />
+      <option name="METHOD_NAME" value="shouldConstructPart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AbstractDocumentTest.shouldRetrieveEmptyStreamForNonExistingChildren" />
+        <item itemvalue="JUnit.AbstractDocumentTest.shouldRetrieveChildren" />
+        <item itemvalue="JUnit.AbstractDocumentTest.shouldPutAndGetValue" />
+        <item itemvalue="JUnit.DomainTest.shouldConstructCar" />
+        <item itemvalue="JUnit.DomainTest.shouldConstructPart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cbb903c-fa79-49bd-8423-97d3c5f0f3a9" name="Changes" comment="" />
+      <created>1653138654782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653138654782</updated>
+      <workItem from="1653138656660" duration="7316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/App.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/abstract-document/src/main/java/com/ligen/anstractDoument/AbstractDocument.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
